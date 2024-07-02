@@ -1,0 +1,22 @@
+{
+  "name": "socket-io",
+  "version": "1.0.0",
+  "description": "a package for creating web sockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zenitsu-dev/socket-io.git"
+  },
+  "author": "zenitsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zenitsu-dev/socket-io/issues"
+  },
+  "homepage": "https://github.com/Zenitsu-dev/socket-io#readme",
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  }
+}
