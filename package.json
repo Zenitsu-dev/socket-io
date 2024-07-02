@@ -1,5 +1,5 @@
 {
-  "name": "@sockets/socket-io",
+  "name": "socket-io",
   "version": "1.0.0",
   "description": "a package for creating web sockets",
   "main": "index.js",
