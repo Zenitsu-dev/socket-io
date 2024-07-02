@@ -1,6 +1,6 @@
 {
   "name": "chaartjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a package for creating web sockets",
   "main": "index.js",
   "scripts": {
